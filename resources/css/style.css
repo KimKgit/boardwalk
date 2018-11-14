@@ -25,3 +25,9 @@ body {
 font-size: 18px;
 color: white;
 }
+.footer
+{
+background-color: dimgray;
+color: white;
+text-align: left;
+}

@@ -1,16 +1,27 @@
-h1 {
+h1
+{
   font-family: helvetica, sans-serif;
   font-size: 70px;
   font-weight: bold;
   color: white;
   text-align: center;
 }
-.hero {
+
+.hero
+{
 background-image: url("../image/background.png");
 background-color: dimgray;
 text-align: center;
 color: white;
 }
+
 body {
   font-family: helvetica, sans-serif;
+  text-align: center;
+}
+
+.b-nav
+{
+font-size: 18px;
+color: white;
 }
